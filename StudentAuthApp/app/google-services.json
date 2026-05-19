@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369286720437",
+    "project_id": "practice-1eab2",
+    "storage_bucket": "practice-1eab2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369286720437:android:0a3d6d9f536b69fcb307fc",
+        "android_client_info": {
+          "package_name": "com.example.labtask_12_universitystudentportal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBebM8ZIg0ZoP2FQWsshiOygF1aYua6hq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
